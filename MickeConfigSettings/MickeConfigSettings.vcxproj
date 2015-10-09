@@ -69,6 +69,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="Arduino config settings.mm" />
     <None Include="MickeConfigSettings.ino">
       <FileType>CppCode</FileType>
     </None>

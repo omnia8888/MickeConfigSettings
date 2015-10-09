@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="MickeConfigSettings.ino" />
+    <None Include="Arduino config settings.mm" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.MickeConfigSettings.vsarduino.h">
